@@ -3,6 +3,8 @@
 ## JP to ENG Subtitle as SRT
 This is a program that turn a japanese voice audio into an english + japanese + romaji subtitle (as separate SRT file)
 
+not that accurate translate tho, have context-aware issue
+
 this is purely made for fun
 
 made with Gemini Flash 3.7
@@ -17,6 +19,8 @@ GPU: -
 OS: Linux Mint 22.3
 
 ## Setup (For Linux)
+install dependencies
+paste this in project's terminal
 ```bash
 python3 -m venv venv
 source venv/bin/activate
